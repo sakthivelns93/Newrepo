@@ -38,6 +38,9 @@ public class BC_New_Request extends Base {
 		login.getUsername().sendKeys(strArg1);
 		login.getPassword().sendKeys(strArg2);
 		login.getBtnLogin().click();
+		System.out.println("Sakthivel's 1st");
+		
+		System.out.println("Geetha's 1st");
     }
 
     @When("^the New Request button is clicked$")
