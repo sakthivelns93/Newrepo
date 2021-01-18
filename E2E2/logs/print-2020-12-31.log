@@ -1,0 +1,7 @@
+22:55:20.664 [main] DEBUG MavenTest.E2E.BC_NewRequest - DOB entered
+22:55:24.531 [main] DEBUG MavenTest.E2E.BC_NewRequest - Gender & State selected
+22:55:28.873 [main] DEBUG MavenTest.E2E.BC_NewRequest - PHS selected
+22:55:35.688 [main] INFO  MavenTest.E2E.BC_NewRequest - All personal details entered
+22:55:55.070 [main] INFO  MavenTest.E2E.BC_ViewRequests - URL launched
+22:56:03.785 [main] INFO  MavenTest.E2E.BC_ViewRequests - View requests option page opened
+22:56:05.036 [main] DEBUG MavenTest.E2E.BC_ViewRequests - Count: 0   Name: TestLastName, TestFirstName   Status: Started
